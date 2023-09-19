@@ -6,5 +6,9 @@ Today's social media algorithms can easily trap users in a "filter bubble," wher
 The article highlights the pressure on major tech companies by governments to eliminate posts containing false information. I recall, during the lockdown, coming across numerous posts offering advice like "how to boost your immunity" or "follow these steps to avoid contracting COVID." Yet, most  of these suggestions lacked any scientific basis. The danger can arise when the public unquestioningly adheres to such misinformation.
 It brings up a crucial question: where do we draw the line between upholding freedom of speech and curbing the intentional spread of falsehoods?
 
+
 ### Addition from Anna Lovellette:
 I think this is really an interesting article.  When I was reading it, in addition to the question of where we draw the line between upholding freedom of speech and curbing the intentional spread of falsehoods via "elimination of false information", I wondered whether there should be regulation of the algorithms recommending the false information.  It is a difficult issue to tackle because people will always have some tendency to believe information that they are consistently exposed to, whether it is true or not.
+
+Comment from Gloria Z: This is an incredibly interesting article that discusses a heavily debated issue that's even brought up in congress. For example, Congresswoman Alexandria Ocasio Cortez (AOC) has interrogated Facebook (now Meta)'s CEO, Mark Zuckerberg, about whether Facebook should be able to take down misinformation/biased posts about political candidates. While we should preserve free speech, it is incredibly dangerous to spread misinformation to vulnerable citizens. Good article, Christine! 
+
